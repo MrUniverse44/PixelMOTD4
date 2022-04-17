@@ -43,7 +43,7 @@
                             <relocations>
                                 <relocation>
                                     <pattern>com.iridium.iridiumcolorapi</pattern>
-                                    <shadedPattern>dev.mruniverse.pixelmotd.extras.iridiumcolorapi</shadedPattern>
+                                    <shadedPattern>dev.mruniverse.pixelmotdold.extras.iridiumcolorapi</shadedPattern>
                                 </relocation>
                             </relocations>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
